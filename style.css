@@ -16,10 +16,11 @@ div {
   padding: 20px;
   justify-content: left;
   text-align: left;
-  /*border: 2px solid rgba(0, 0, 0, 0.125);*/
+
 }
 
 #responses > * {
   display: block;
   margin: 20px 0;
+  border: 2px solid rgba(0, 0, 0, 0.125);
 }
