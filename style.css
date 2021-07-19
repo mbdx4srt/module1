@@ -1,0 +1,25 @@
+body {
+  padding: 20px;
+  font: 28px "Univers for BP", "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #28a500;
+}
+
+
+p {
+  padding: 20px;
+  font: 14px "Univers for BP", "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #28a500;
+}
+
+div {
+  margin: 20px;
+  padding: 20px;
+  justify-content: left;
+  text-align: left;
+  /*border: 2px solid rgba(0, 0, 0, 0.125);*/
+}
+
+#responses > * {
+  display: block;
+  margin: 20px 0;
+}
